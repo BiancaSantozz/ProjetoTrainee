@@ -19,16 +19,16 @@ Aplicação desenvolvida com **React + Vite** como parte da trilha trainee de fr
 ---
 
 ## 📂 Estrutura de Pastas
-src/
-├── assets/
-├── components/
-├── pages/
-├── services/
-├── styles/
-│ ├── global.css
-│ └── variables.css
-├── App.js
-└── main.jsx
+src/  
+├── assets/  
+├── components/  
+├── pages/  
+├── services/  
+├── styles/  
+│ ├── global.css  
+│ └── variables.css  
+├── App.js  
+└── main.jsx  
 
 ---
 
@@ -50,3 +50,4 @@ A aplicação consome dados da **Pokémon TCG API v2**.
 
 
 Desenvolvido por Bianca Santos de Assis, trainee da Comp Júnior no processo seletivo 2025/2 🩵
+
