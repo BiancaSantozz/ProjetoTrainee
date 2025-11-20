@@ -4,8 +4,8 @@ Aplicação desenvolvida com **React + Vite** como parte da trilha trainee de fr
 
 ## 📋 Etapas
 ✅ Semanas 1-2: Configurar o ambiente, estruturar o projeto e escolher API.  
-🚧 Semana 3: Implementar login e registro, configurar a autenticação e criar a navegação entre páginas.  
-⏸️ Semana 4-5: Consumir a API, exibir dados e implementar as operações de criar, editar e excluir com componentes reutilizáveis.  
+✅ Semana 3: Implementar login e registro, configurar a autenticação e criar a navegação entre páginas.  
+🚧 Semana 4-5: Consumir a API, exibir dados e implementar as operações de criar, editar e excluir com componentes reutilizáveis.  
 ⏸️ Semana 6: Revisar o código, garantir responsividade, escrever o README completo e gravar a apresentação final do projeto.  
 
 ---
